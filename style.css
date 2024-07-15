@@ -136,7 +136,7 @@ nav ul li a:hover {
 	
 	
 	
-@media (max-width:950px) {
+@media (max-width: 950px) {
 	
 	#nav {
 	 flex-direction: column;
@@ -145,7 +145,7 @@ nav ul li a:hover {
 	
 
 #cont #text h2 {
-    font-size: 40px;
+    font-size: 80px;
 	font-weight: 600;
 	text-transform: uppercase;
 }
