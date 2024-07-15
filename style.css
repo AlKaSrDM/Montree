@@ -133,17 +133,24 @@ nav ul li a:hover {
 	
 	
 	
+@media (min-width: 950px) and (max-width: 2250px) {
+}
 	
 	
-	
-@media (max-width: 950px) {
+@media (max-width:950px) {
 	
 	#nav {
 	 flex-direction: column;
 	 justify-content: center;	
 	}
 	
+#cont #text {
+	
+	color: red;
+	width: 60%;
+}
 
+	
 #cont #text h2 {
     font-size: 80px;
 	font-weight: 600;
@@ -157,14 +164,8 @@ nav ul li a:hover {
 	 
 }
 
-#cont #text {
 	
-	color: white;
-	width: 30%;
-	
-}
-	
-	#cont #photo{
+#cont #photo{
 		width: 70%;
 	}
 	
